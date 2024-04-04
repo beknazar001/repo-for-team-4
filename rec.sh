@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#comment from Selkinai
 # Define the name of the feature branch
 feature_branch=$1
 
