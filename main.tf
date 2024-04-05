@@ -103,7 +103,7 @@ module "google_networks" {
   ]
 }
 
-
+#blablabla bla bla
 module "google_kubernetes_cluster" {
   source = "./kubernetes_cluster"
 
@@ -132,4 +132,5 @@ module "bastion" {
 #change 2git
 #change 1
 #change 1
-# Change from Aiperi Mairambekova(Ririshka)
+# Change from Aiperi Mairambekova(Ririshka) 
+# mdfjm
